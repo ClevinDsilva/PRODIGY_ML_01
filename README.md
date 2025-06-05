@@ -1,5 +1,4 @@
 # PRODIGY_ML_01
-Machine Learning Intern
 
  House Price Prediction using Linear Regression
 
