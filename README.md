@@ -49,7 +49,7 @@ Build a linear regression model to predict house prices based on:
 ## 🔗 Useful Links
 
 - [Dataset on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
-- [LinkedIn Post](#) *(Insert your post link once it's live)*
+- [LinkedIn Post](#) (https://www.linkedin.com/posts/clevin-d-silva-395848250_machinelearning-internship-prodigyinfotech-activity-7336267354193973248-oOrT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4PnCEB26RO8Aa0_Tb5WrHTcHdzuPZg7V4)
 
 ---
 
