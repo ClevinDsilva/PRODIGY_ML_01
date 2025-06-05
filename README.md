@@ -32,12 +32,13 @@ Build a linear regression model to predict house prices based on:
 
 ## 📊 Model Performance
 
-- MSE: *(insert your output)*
-- R² Score: *(insert your output)*
+![image](https://github.com/user-attachments/assets/d965f5bf-7194-43c0-a532-676fb05f1038)
+
 
 ## 📈 Output Graph
 
-![Actual vs Predicted Plot](output_plot.png) *(optional)*
+![image](https://github.com/user-attachments/assets/964ece07-4bc9-4b30-96cc-6e3a6130f997)
+
 
 ## 📂 How to Run
 
